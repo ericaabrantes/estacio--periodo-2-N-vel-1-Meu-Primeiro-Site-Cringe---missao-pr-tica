@@ -4,6 +4,10 @@
     width: 100%;
 }
 
+.receitas-container{
+    height: 90vh;
+}
+
 /* -*----------------CÒDIGO DO FLEXBOX ANNTES DO BOOTSTRAP ------------*/
 /* .receitas-container {
     display: flex;
