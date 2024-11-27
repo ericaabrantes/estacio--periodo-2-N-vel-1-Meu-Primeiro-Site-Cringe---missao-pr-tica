@@ -1,0 +1,48 @@
+body {
+    background: #e9967a;
+}
+
+.banner-principal {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.banner-principal div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-principal .logomarca {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.banner-principal .titulo {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.banner-principal .msg-boas-vindas {
+    font-size: 2rem;
+
+    font-weight: bold;
+
+}
+
+
+footer {
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+}
