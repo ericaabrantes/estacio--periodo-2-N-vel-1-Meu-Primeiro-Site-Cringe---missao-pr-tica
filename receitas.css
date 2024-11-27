@@ -1,4 +1,11 @@
-.receitas-container {
+.card-img-top {
+    height: 180px; 
+    object-fit: cover; 
+    width: 100%;
+}
+
+/* -*----------------CÒDIGO DO FLEXBOX ANNTES DO BOOTSTRAP ------------*/
+/* .receitas-container {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
@@ -59,4 +66,4 @@ hr {
     border-color: #c9c9c9;
     box-sizing: border-box;
     width: 100%;
-}
+} */
